@@ -1,7 +1,5 @@
 '''
 Created on 9 Dec 2013
-
-@author: Luca.Mandrioli
 '''
 import sys
 from com.mandrocker.series.db import MongoDb

@@ -1,7 +1,5 @@
 '''
 Created on 9 Dec 2013
-
-@author: Luca.Mandrioli
 '''
 
 from pymongo import MongoClient
